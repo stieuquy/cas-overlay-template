@@ -126,7 +126,6 @@
                     <groupId>org.apereo.cas</groupId>
                     <artifactId>cas-server-support-jdbc-drivers</artifactId>
                     <version>${cas.version}</version>
-                    <scope>runtime</scope>
                 </dependency>
                 <!--
                 ...Additional dependencies may be placed here...
